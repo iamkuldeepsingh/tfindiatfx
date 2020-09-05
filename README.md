@@ -1,4 +1,4 @@
-# Repo to keep demo code of TensorFlow Extended (TFX) for TensorFlow India Summit
+# Demo code of TensorFlow Extended (TFX) for TensorFlow India Summit
 
 * Download on local system using ``` git clone https://github.com/tensorflow/tfx.git ```
 
