@@ -1,6 +1,6 @@
 # Repo to keep demo code of TensorFlow Extended (TFX) for TensorFlow India Summit
 
-* Clone the repo ``` git clone https://github.com/tensorflow/tfx.git ```
+* Download on local system using ``` git clone https://github.com/tensorflow/tfx.git ```
 
 * Prerequisites
   - Linux / MacOS
@@ -17,7 +17,7 @@
   - Google uses TFX pipelines for production ML
   
   
-* You’re following a typical ML development process
+* You are following a typical ML development process
 
   - Ingesting, understanding, and cleaning our data
   - Feature engineering
@@ -26,7 +26,7 @@
   - Lather, rinse, repeat
   - Ready for production
 
-* We 're using the Taxi Trips dataset released by the City of Chicago.
+* We are using the Taxi Trips dataset released by the City of Chicago.
 
 * Model Goal - Binary classification
   - Will the customer tip more or less than 20%?
