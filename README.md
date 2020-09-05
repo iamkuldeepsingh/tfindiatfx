@@ -1,5 +1,7 @@
 # Demo code of TensorFlow Extended (TFX) for TensorFlow India Summit
 
+* Slide for corresponding code https://drive.google.com/file/d/1lsSWdfP_xyBLScmHSNqRgO6rK-fdxGv7/view?usp=sharing
+
 * Download on local system using ``` git clone https://github.com/tensorflow/tfx.git ```
 
 * Prerequisites
