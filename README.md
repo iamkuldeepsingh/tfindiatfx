@@ -9,7 +9,7 @@
   - Git
 
 * What We are doing
-  - You’re learning how to create an ML pipeline using TFX
+  - We are learning how to create an ML pipeline using TFX
   - TFX pipelines are appropriate when you will be deploying a production ML application
   - TFX pipelines are appropriate when datasets are large
   - TFX pipelines are appropriate when training/serving consistency is important
