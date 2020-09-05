@@ -1,6 +1,6 @@
 # Repo to keep demo code of TensorFlow Extended (TFX) for TensorFlow India Summit
 
-* Clone the repo git clone https://github.com/iamkuldeepsingh/tfx.git
+* Clone the repo ``` git clone https://github.com/tensorflow/tfx.git ```
 
 * Prerequisites
   - Linux / MacOS
